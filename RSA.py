@@ -6,7 +6,7 @@ Created on Mon Sep 26 22:20:27 2022
 
 This program implements the Rivest Samir Adleman (RSA) Algorithm.
 
-@author: sidvs
+@author: Siddharth Vijay Sai
 """
 # Accepting the two prime numbers, P and Q along with the plaintext M
 P = int(input("Enter the first prime number: "))
